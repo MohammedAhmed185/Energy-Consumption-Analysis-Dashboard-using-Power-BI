@@ -33,3 +33,11 @@ Energy Management Best Practices
 Expanding the dashboard to include additional regions and more granular time intervals.
 Integrating predictive analytics to forecast future energy consumption patterns.
 Looking forward to leveraging these insights for more informed decision-making. Contributions and feedback are welcome!
+
+![1](https://github.com/user-attachments/assets/53d658fe-6c82-4f83-a3c5-1793e4aae722)
+![2](https://github.com/user-attachments/assets/351ba4c3-f5df-4530-823e-cec209c99e74)
+![3](https://github.com/user-attachments/assets/35466d8e-ab99-47f3-9571-975a385ac14b)
+
+
+
+
